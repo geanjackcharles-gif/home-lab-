@@ -27,15 +27,25 @@ This physical lab infrastructure directly reinforces the competencies validated 
 * **Core Competencies:** Network architecture mapping, TCP/IP and OSI models, firewall configuration, DNS management, and auditing physical/virtual infrastructure networks.
 
 ---
-🛠️ HOMELAB REPOSITORY
-home-lab-
-│
-├── A6 GEEKOM
-├── A5 GEEKOM
-├── Mac M1
+🛠️ HOMELAB
+
+A6 GEEKOM
+├── Fedora KDE
+└── Debian 13 troubleshooting
+
+A5 GEEKOM
+└── Fedora Server
+
+Mac M1
+└── OrbStack / administration
+
+Network
 ├── Omada Router
-├── 2.5GbE Switch
-├── Troubleshooting
+└── 2.5GbE Switch
+
+Security Projects
+├── Risk management
 ├── Network configuration
-└── Security experiments
+├── Troubleshooting
+└── Future monitoring / detection
 
